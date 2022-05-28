@@ -1,5 +1,6 @@
-import 'bootstrap'
+import 'bootstrap';
 
-export default init = () => {
-    console.log('Hello, World!')
-}
+const init = () => {
+  console.log('Hello, World!');
+};
+export default init;
